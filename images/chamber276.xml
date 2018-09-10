@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>chamber276.jpg</filename>
+	<path>C:\Users\Gabe\Desktop\images\chamber276.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snitch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>605</ymin>
+			<xmax>543</xmax>
+			<ymax>827</ymax>
+		</bndbox>
+	</object>
+</annotation>

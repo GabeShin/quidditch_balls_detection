@@ -1,0 +1,6 @@
+/input
+/output
+/faster_rcnn_inception_model
+/.ipynb_checkpoints
+*.xls
+*.xlsx
