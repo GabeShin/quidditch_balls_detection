@@ -10,6 +10,6 @@
 * Do Detection on Video
 
 ### Video Result
-HTML("""<video width="640" height="480" controls>
-          <source src="result/annotated.mp4" type="video/mp4">
-        </video>""")
+<video width="640" height="480" controls>
+  <source src="result/annotated.mp4" type="video/mp4">
+</video>
