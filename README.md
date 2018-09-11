@@ -1,6 +1,6 @@
 # Quidditch Balls Detection
 
-##[Walk-Thru](https://github.com/RangDuk/quidditch_balls_detection/blob/master/Walk-Through.ipynb)
+## [Walk-Thru](https://github.com/RangDuk/quidditch_balls_detection/blob/master/Walk-Through.ipynb)
 * Convert xml files to csv
 * Generate TFRecord
 * Download pretrained model and get configuration
@@ -16,4 +16,5 @@
 ![img4](https://github.com/RangDuk/quidditch_balls_detection/blob/master/result/9.png)
 ![img5](https://github.com/RangDuk/quidditch_balls_detection/blob/master/result/10.png)
 
-## [Video Result](https://github.com/RangDuk/quidditch_balls_detection/blob/master/result/annotated.mp4)
+## Video Result
+[![Audi R8](http://img.youtube.com/vi/OEVYED5nvaE/0.jpg)](https://www.youtube.com/watch?v=OEVYED5nvaE)
